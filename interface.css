@@ -1,0 +1,21 @@
+#prt{
+color: red;
+text-align: center;
+text-decoration: solid;
+}
+ li {
+    list-style-type: none;
+}
+ul{
+    display: inline;
+    float: left;
+}
+a {
+    display: block;
+    color: blue;
+    width: 60px;
+    background-color: #dddddd;
+}
+li a:hover {
+background-color: #555;
+}
